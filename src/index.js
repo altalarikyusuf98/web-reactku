@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const Hello = () =>{
-  return <p> Hello </p>
+  return <p> Hello, Saya Altalarik Yusuf Erdinanta dari kelas TI-3H.</p>
 }
 // ReactDOM.render(
 //   <React.StrictMode>
